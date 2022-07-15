@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tystucki
 - 👀 I’m interested in IOS Development    
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning Javascript. 
+-  I'm a student at DevMountain.
 - 📫 How to reach me: tyloganstucki@gmail.com
 
 <!---
